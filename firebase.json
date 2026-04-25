@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"woppy-app","appId":"1:258579849595:android:f775bdefdd85deff0dddde","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"woppy-app","configurations":{"android":"1:258579849595:android:f775bdefdd85deff0dddde","ios":"1:258579849595:ios:cb3897f2d8bbf3540dddde"}}}}}}

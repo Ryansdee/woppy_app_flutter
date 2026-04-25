@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "258579849595",
+    "project_id": "woppy-app",
+    "storage_bucket": "woppy-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258579849595:android:3133ec1367d8134c0dddde",
+        "android_client_info": {
+          "package_name": "com.example.woppy_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACVucFI7Dxo_Uv8Lvqjox1JDmsNhWimBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258579849595:android:f775bdefdd85deff0dddde",
+        "android_client_info": {
+          "package_name": "com.woppy.woppy_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACVucFI7Dxo_Uv8Lvqjox1JDmsNhWimBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
